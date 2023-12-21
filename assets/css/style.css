@@ -16,6 +16,7 @@ body {
   background-color: var(--Light-pink);
   background-image: url('../images/background-pattern-desktop.svg');
   background-repeat: no-repeat;
+  background-size: contain;
 }
 
 section {
