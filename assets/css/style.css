@@ -52,9 +52,11 @@ section {
 }
 
 .icon {
-  width: 30px;
-  height: 30px;
-  background-image: url('../images/icon-plus.svg');
+  min-width: 32px;
+  height: 32px;
+  background-image: url(../images/icon-plus.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .icon-active {
